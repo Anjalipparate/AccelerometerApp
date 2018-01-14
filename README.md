@@ -1,1 +1,1 @@
-# AccelerometerApp
+# Accelerometer App
